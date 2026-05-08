@@ -6,6 +6,19 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+## [0.1.1](https://github.com/ForeverAngry/rig/compare/rig-memory-v0.1.0...rig-memory-v0.1.1) - 2026-05-08
+
+### Added
+
+- *(memory)* Rig-managed conversation memory + rig-memory companion crate ([#1702](https://github.com/ForeverAngry/rig/pull/1702)) (by @ForeverAngry)
+
+### Other
+
+- Add demotion hooks for bounded conversation memory ([#1737](https://github.com/ForeverAngry/rig/pull/1737)) (by @ForeverAngry) - #1737
+
+### Contributors
+
+* @ForeverAngry
 
 ### Added
 
