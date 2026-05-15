@@ -133,7 +133,7 @@ You can find more examples in each crate's `examples` directory (for example, [`
 The root `rig` facade exposes companion crates behind one feature per integration:
 
 ```toml
-rig = { version = "0.36.0", features = ["lancedb", "fastembed"] }
+rig = { version = "0.37.0", features = ["lancedb", "fastembed"] }
 ```
 
 | Integration | Crate | Feature | Module path |

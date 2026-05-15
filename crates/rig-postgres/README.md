@@ -23,7 +23,7 @@ Add the companion crate to your `Cargo.toml`, along with the rig-core crate:
 
 ```toml
 [dependencies]
-rig-core = "0.36.0"
+rig-core = "0.37.0"
 rig-postgres = "0.2.5"
 ```
 

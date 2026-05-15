@@ -8,7 +8,7 @@ Unlike the providers found in the core crate, `fastembed` does not compile to th
 ```toml
 [dependencies]
 rig-fastembed = "0.4.0"
-rig-core = "0.36.0"
+rig-core = "0.37.0"
 ```
 
 The default features enable Hugging Face model downloads and ONNX Runtime binary

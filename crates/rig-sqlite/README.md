@@ -25,7 +25,7 @@ Add the companion crate to your `Cargo.toml`, along with the rig-core crate:
 ```toml
 [dependencies]
 rig-sqlite = "0.2.5"
-rig-core = "0.36.0"
+rig-core = "0.37.0"
 ```
 
 You can also run `cargo add rig-sqlite rig-core` to add the most recent versions of the dependencies to your project.

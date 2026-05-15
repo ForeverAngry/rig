@@ -6,7 +6,7 @@ This crate integrates SurrealDB into Rig, allowing you to easily use RAG with th
 ```toml
 [dependencies]
 rig-surrealdb = "0.2.5"
-rig-core = "0.36.0"
+rig-core = "0.37.0"
 ```
 
 You can also run `cargo add rig-surrealdb rig-core` to add the latest published
