@@ -19,6 +19,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 * @mateobelanger
 * @gold-silver-copper
+## [0.2.7](https://github.com/ForeverAngry/rig/compare/rig-gemini-grpc-v0.2.6...rig-gemini-grpc-v0.2.7) - 2026-05-15
+
+### Other
+
+- bump README install snippets to rig-core 0.37 (by @ForeverAngry)
+
+### Contributors
+
+* @ForeverAngry
 
 ## [0.2.5](https://github.com/0xPlaygrounds/rig/compare/rig-gemini-grpc-v0.2.4...rig-gemini-grpc-v0.2.5) - 2026-04-28
 
